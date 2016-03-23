@@ -8,4 +8,5 @@ def whatsTheSign(x, y, z)
 	end
 end
 
+whatsTheSign(2,3,4)
 whatsTheSign(2,3,-4)
